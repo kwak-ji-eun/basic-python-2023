@@ -67,7 +67,7 @@ print(f'파이는 {pi:10.3f}입니다.') # 파이는      3.142입니다. #3.142
         - 상속, 다중 상속
 
 2. 파이썬 응용
-    - 주소록 프로그램 [https://github.com/kwak-ji-eun/studyPython2023/blob/main/Project/address_app.py]
+    - 주소록 프로그램 [소스](https://github.com/kwak-ji-eun/studyPython2023/blob/main/Project/address_app.py)
     - 
 ![실행화면](https://github.com/kwak-ji-eun/studyPython2023/blob/main/Images/address_app.png?raw=true)
 실행화면
